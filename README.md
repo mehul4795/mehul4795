@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/KEf7gXqvQ8B3SWnUid" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dreamworks-cute-mood-please-KEf7gXqvQ8B3SWnUid">via GIPHY</a></p>
-
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/KEf7gXqvQ8B3SWnUid/giphy.gif">
+</p>
 <!--
 **mehul4795/mehul4795** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
