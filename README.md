@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/6pUBXVTai18Iw/giphy.gif">
+  <img width="250" src="https://media.giphy.com/media/KEf7gXqvQ8B3SWnUid/giphy.gif">
 </p>
 <!--
 **mehul4795/mehul4795** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
