@@ -1,19 +1,24 @@
-### Hi there 👋
+### Howdy, I'm Mehul 👋
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/KEf7gXqvQ8B3SWnUid/giphy.gif">
 </p>
-<!--
-**mehul4795/mehul4795** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I develop Android apps having clean UI and make sure they follow the latest material design guidelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actively working on [Bulk Image Compressor](https://play.google.com/store/apps/details?id=aculix.bulk.image.compressor) & [Meetly](https://play.google.com/store/apps/details?id=aculix.meetly.app)
+- :pencil2: Writing about Android development at [The Engineer's Cafe](https://theengineerscafe.com)
+- :office: Director at [Aculix](https://aculix.com)
+
+### Connect with me
+<a href="https://twitter.com/mehul4795">
+  <img align="left" alt="Mehul Kanzariya Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/mehul4795">
+  <img align="left" alt="Mehul Kanzariya Instagram" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" />
+</a>
+<a href="https://medium.com/@mehul4795">
+  <img align="left" alt="Mehul Kanzariya Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
+</a>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mehul4795/mehul4795)
