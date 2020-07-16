@@ -21,4 +21,4 @@ I develop Android apps having clean UI and make sure they follow the latest mate
   <img align="left" alt="Mehul Kanzariya Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
 </a><br/><br/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mehul4795/mehul4795)
+[![HitCount](http://hits.dwyl.com/mehul4795/mehul4795.svg)](http://hits.dwyl.com/mehul4795/mehul4795)
